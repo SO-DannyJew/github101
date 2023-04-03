@@ -1,11 +1,10 @@
 Mushrooms
 Potatoes
-Garlic
-
 Priority 1
-
 Mango Juice
 Samosas
 Biriyani
 Lamb Sugaar
 Cadriyaad
+Sweet Potatoes
+Garlic
